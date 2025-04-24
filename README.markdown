@@ -23,10 +23,6 @@ The dataset, sourced from Roboflow, contains images of chessboards with annotate
   - black_bishop, black_king, black_knight, black_pawn, black_queen, black_rook
   - white_bishop, white_king, white_knight, white_pawn, white_queen, white_rook
 
-#### Visual Insights
-- **Dataset Health Check:** Available via Roboflow interface (see Roboflow project link).
-- **Example Image:** Chessboard with annotated pieces (visualize in Roboflow or test outputs).
-
 ---
 - **Dataset Link:** [Chess Piece Detection Dataset](https://universe.roboflow.com/cifar10-image-classification/chess-piece-detection-omx7i)
 
